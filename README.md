@@ -16,7 +16,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          java: ["Thymeleaf"],
-         js: ["Angular"],
+         TypeScript: ["Angular"],
          css: ["Bootstrap"]
       },
       backEnd: {
