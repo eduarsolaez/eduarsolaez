@@ -1,7 +1,7 @@
 <img src="https://github.com/eduarsolaez/eduarsolaez/blob/main/hellow.svg"/>
 
 
-<h1 align="center">Hola 👋 soy Juanjo, desarrollador Full-Stack especializado en Java</h1>
+<h1 align="center">Hola 👋 soy Eduar, Estudiante de ingenieria de sistemas y desarrollador especializado en Java</h1>
 
 ___
 
@@ -12,21 +12,17 @@ ___
 ~~~ javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Java, Kotlin, PHP, Javascript, Typescript, HTML, CSS, SQL],
+   code: [Java, PHP, Javascript, Typescript, HTML, CSS, SQL],
    technologies: {
       frontEnd: {
-         java: ["Thymeleaf", "JavaFx"],
-         Typescript: ["Angular"],
-         js: ["jQuery, Ajax, PWA"],
-         css: ["Bootstrap", "Material Design"]
+         java: ["Thymeleaf"],
+         js: ["Angular"],
+         css: ["Bootstrap"]
       },
       backEnd: {
          java: ["SpringBoot", "SpringCloud", "SpringSecurity", "Microservicios"],
-         PHP: ["Codeigniter"],
-         Otras: ["Docker"]
       },
-      databases: ["MySQL", "Oracle", "SQLite", "H2", "Hibernate", "Postgre", "MongoDb", "Firebase"],
-      mobile: ["Android"]
+      databases: ["MySQL", "Hibernate", "Postgre"],
    },
    currentOccupation: ["I continue training and open for job opportunities"]
 };
@@ -38,13 +34,13 @@ const aboutMe = {
 
 <br>
 
-* <img align="center" alt="Linkedin" width="44px" src="https://github.com/jitos86/jitos86/blob/master/linkedin.svg" />&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/juan-jos%C3%A9-garc%C3%ADa-navarrete-71268b1b0/">Linkedin</a>
+* <img align="center" alt="Linkedin" width="44px" src="https://github.com/eduarsolaez/eduarsolaez/blob/main/linkedin.svg" />&nbsp;&nbsp;
+<a href="www.linkedin.com/in/eduar-solaez">Linkedin</a>
 
-* <img align="center" alt="Gmail" width="46px" src="https://github.com/jitos86/jitos86/blob/master/mail.svg" />&nbsp;&nbsp;
-<a href="mailto:jitos@jitos.dev">jitos@jitos.dev</a> 
+* <img align="center" alt="Gmail" width="46px" src="https://github.com/eduarsolaez/eduarsolaez/blob/main/mail.svg" />&nbsp;&nbsp;
+<a href="eduarsoli703@gmail.com">eduarsoli703@gmail.com</a> 
 
-* <img align="center" alt="Curriculum Vitae" width="46px" src="https://github.com/jitos86/jitos86/blob/master/icon_cv.png" />&nbsp;&nbsp;
+* <img align="center" alt="Curriculum Vitae" width="46px" src="https://github.com/eduarsolaez/eduarsolaez/blob/main/icon_cv.png" />&nbsp;&nbsp;
 <a download="JuanJoseGarcia.pdf" href="https://github.com/jitos86/jitos86/blob/master/JuanJoseGarcia.pdf">Descargar currículum</a>
 
 <br>
