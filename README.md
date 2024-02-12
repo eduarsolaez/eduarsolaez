@@ -35,7 +35,7 @@ const aboutMe = {
 <br>
 
 * <img align="center" alt="Linkedin" width="44px" src="https://github.com/eduarsolaez/eduarsolaez/blob/main/linkedin.svg" />&nbsp;&nbsp;
-<a href="www.linkedin.com/in/eduar-solaez">Linkedin</a>
+<a href="https://www.linkedin.com/in/eduar-solaez/">Linkedin</a>
 
 * <img align="center" alt="Gmail" width="46px" src="https://github.com/eduarsolaez/eduarsolaez/blob/main/mail.svg" />&nbsp;&nbsp;
 <a href="eduarsoli703@gmail.com">eduarsoli703@gmail.com</a> 
