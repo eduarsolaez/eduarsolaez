@@ -20,7 +20,7 @@ const aboutMe = {
          css: ["Bootstrap"]
       },
       backEnd: {
-         java: ["SpringBoot", "SpringCloud", "SpringSecurity", "Microservicios"],
+         java: ["Spring FrameWork", "SpringBoot", "SpringCloud", "SpringSecurity", "Microservicios"],
       },
       databases: ["MySQL", "Hibernate", "Postgre"],
    },
@@ -41,7 +41,7 @@ const aboutMe = {
 <a href="eduarsoli703@gmail.com">eduarsoli703@gmail.com</a> 
 
 * <img align="center" alt="Curriculum Vitae" width="46px" src="https://github.com/eduarsolaez/eduarsolaez/blob/main/icon_cv.png" />&nbsp;&nbsp;
-<a download="JuanJoseGarcia.pdf" href="https://github.com/jitos86/jitos86/blob/master/JuanJoseGarcia.pdf">Descargar currículum</a>
+<a download="CV_EDUAR.pdf" href="https://github.com/eduarsolaez/eduarsolaez/blob/main/CV_EDUAR.pdf">Descargar currículum</a>
 
 <br>
 
